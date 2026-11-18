@@ -1,0 +1,22 @@
+{
+  "name": "@softclick-ma/proptech-3d-webgl-direct-booking-architecture",
+  "version": "1.0.0",
+  "description": "Next.js 15 + 3D WebGL PropTech portal & 0% OTA direct booking engine blueprint compliant with REGA, DLD Trakheesi, CMI & GDPR.",
+  "homepage": "https://softclick.ma/services/web-development",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/softclick-ma/proptech-3d-webgl-direct-booking-architecture.git"
+  },
+  "keywords": [
+    "proptech",
+    "real-estate-portal",
+    "3d-webgl",
+    "direct-booking-marrakech",
+    "dld-trakheesi",
+    "rega-ejar",
+    "softclick"
+  ],
+  "license": "MIT",
+  "author": "SOFTCLICK SARL <contact@softclick.ma> (https://softclick.ma)",
+  "main": "./index.ts"
+}
